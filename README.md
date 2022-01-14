@@ -71,9 +71,9 @@
 # Intruções para rodar o projeto  :pencil:
 
 1. Clone o repositório
-  * `git clone git@github.com:gabrieltakaki/menu-recipes-app.git`
+  * `git clone git@github.com:flavioCoder1/Menu-Recipes-App.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd menu-recipes-app`
+    * `cd Menu-Recipes-App`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
@@ -170,4 +170,4 @@ Feito com :green_heart: por André Jaques , Flavio Cordeiro, Gabriel Takaki
 
 ## LICENSE  :pencil:
 
-Esse projeto está protegido pelo MIT license. Veja aqui a LICENSE <link> aqui!
+Esse projeto está protegido pelo MIT license. Veja a <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt">LICENSE</a> aqui!
